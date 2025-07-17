@@ -1,7 +1,7 @@
 streamlit
 streamlit-webrtc
-opencv-python
-numpy
+opencv-python-headless
 onnxruntime
+numpy
 pyyaml
 Pillow
